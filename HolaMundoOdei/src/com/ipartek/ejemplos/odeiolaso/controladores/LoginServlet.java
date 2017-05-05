@@ -1,4 +1,4 @@
-package com.ipartek.ejemplos.odeiolaso.controladores.copy;
+package com.ipartek.ejemplos.odeiolaso.controladores;
 
 import java.io.IOException;
 
