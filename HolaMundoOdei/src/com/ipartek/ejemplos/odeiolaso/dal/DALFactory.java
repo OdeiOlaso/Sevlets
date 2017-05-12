@@ -2,9 +2,9 @@ package com.ipartek.ejemplos.odeiolaso.dal;
 
 public class DALFactory {
 
-	public static UsuariosDAL getUsuariosDAL() {
+	public static ProductosDAL getProductosDAL() {
 		// return new UsuariosDALUsuarioUnico();
-		return new UsuariosDALColeccion();
+		return new ProductosDALColeccion();
 	}
 
 }
